@@ -107,3 +107,9 @@ The execution of user assembly programs is performed in the Slave Mode of operat
 ### Simulation and Time Management : 
 The MOS project implements a simulation of an operating system environment. It tracks and manages time-related aspects such as Time Slice Counters (TSC) and Time Slice limits (TS). The simulation increments the TSC and checks for timeouts and time slice exhaustion, which can trigger interrupts and context switches between processes.    
    
+
+### Group Project Team Members:
+- Aditya Patil
+- Anuja Deshpande
+- Surabhi Deshpande
+- Dev Bohra
