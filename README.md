@@ -109,7 +109,8 @@ The MOS project implements a simulation of an operating system environment. It t
    
 
 ### Group Project Team Members:
-- Aditya Patil
+
 - Anuja Deshpande
+- Aditya Patil
 - Surabhi Deshpande
 - Dev Bohra
